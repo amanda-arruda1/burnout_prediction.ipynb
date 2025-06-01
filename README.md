@@ -14,7 +14,7 @@ Aplicação web que analisa fatores de risco para burnout em profissionais de te
 
 ## Demonstração 
 
-https://github.com/user-attachments/assets/c724237e-fb21-42ed-8931-56aca03ea69f
+https://github.com/user-attachments/assets/e5d227b2-eabe-4024-af1e-749b9342a210
 
 ## Funcionalidades
 

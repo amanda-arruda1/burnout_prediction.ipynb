@@ -49,8 +49,7 @@ Amanda Arruda Almeida
 - [Streamlit Docs](https://docs.streamlit.io)
 - [OSMI Mental Health Survey](https://osmihelp.org/research)
 - [Mental Health at Workplace - Kaggle Notebook](https://www.kaggle.com/code/aditimulye/mental-health-at-workplace)
-
-  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 > **Este projeto foi desenvolvido como parte do curso Profissão: Cientista de Dados
 da Escola Britânica de Artes Criativas e Tecnologia (EBAC).**

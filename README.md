@@ -19,19 +19,22 @@ https://github.com/user-attachments/assets/c724237e-fb21-42ed-8931-56aca03ea69f
 ## Funcionalidades
 
 ✔️ Análise exploratória interativa
+
 ✔️ Comparação entre modelos de ML
+
 ✔️ Visualização de importância das features
+
 ✔️ Matriz de confusão e métricas de avaliação
 
 ## Dependências
 
-Python 3.10+
-streamlit==1.32.2
-pandas==2.2.1
-scikit-learn==1.4.1
-xgboost==2.0.3
-matplotlib==3.8.3
-seaborn==0.13.2
+* Python 3.10+
+* streamlit==1.32.2
+* pandas==2.2.1
+* scikit-learn==1.4.1
+* xgboost==2.0.3
+* matplotlib==3.8.3
+* seaborn==0.13.2
 
 ## Licença
 

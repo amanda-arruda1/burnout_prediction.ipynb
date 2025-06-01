@@ -58,10 +58,21 @@ def preprocess_data(df):
 # Interface principal
 def main():
     st.title("Análise de Burnout em Profissionais de Tecnologia")
-    
+    st.header("Carregar Dataset")
+    uploaded_file = st.file_uploader(
+        "Carregue seu arquivo CSV com dados de saúde mental",
+        type=['csv'],
+        help="O arquivo deve conter colunas como 'mental_health', 'gender', 'benefits', etc."
+    )
+    try:
+        df = pd.read_csv(uploaded_file)
+        st.success("Arquivo carregado com sucesso!")
+    except Exception as e:
+        st.error(f"Erro ao ler o arquivo: {str(e)}")
+        return
+        
     # Carregar e processar dados
     with st.spinner('Carregando e processando dados...'):
-        df = pd.read_csv("C:/Users/amand/OneDrive/Desktop/burnout prediction/burnout_prediction.ipynb/data_mh_in_tech.csv")
         df_processed = preprocess_data(df)
     
     # Definir features e target

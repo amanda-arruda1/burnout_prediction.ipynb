@@ -10,7 +10,7 @@ Aplicação web que analisa fatores de risco para burnout em profissionais de te
 - **Streamlit** para interface interativa
 - Análise exploratória com **Seaborn/Matplotlib**
 
-**Link da aplicação:** 
+**Link da aplicação:** https://burnout-prediction-ipynb.onrender.com
 
 ## Demonstração 
 

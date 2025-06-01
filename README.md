@@ -30,11 +30,11 @@ https://github.com/user-attachments/assets/e5d227b2-eabe-4024-af1e-749b9342a210
 
 1. Baixe o dataset modelo: [data_mh_in_tech.csv]
 2. Acesse: https://burnout-prediction-ipynb.onrender.com
-   3. Clique em "Browse files" e selecione seu arquivo CSV
-   4. Explore as análises automáticas:
-      - Gráficos interativos
-      - Comparação de modelos
-      - Métricas de performance
+3. Clique em "Browse files" e selecione seu arquivo CSV
+4. Explore as análises automáticas:
+   - Gráficos interativos
+   - Comparação de modelos
+   - Métricas de performance
         
 ## Dependências
 
